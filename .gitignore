@@ -1,4 +1,7 @@
 venv
 *.tmp
+*.log
+*.db
 sites.txt
 __pycache__
+tags
